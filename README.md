@@ -1,2 +1,3 @@
 # AppInventor
-AppInventor based projects
+
+Here you will find AppInventor based projects, some of them conected with Arduino:
