@@ -2,7 +2,7 @@
 
 Here you will find AppInventor based projects, some of them conected with Arduino:
 
-**· [SwitchItON]():** (soon) A domotic project to switch on and off all electric devices.
+**· [SwitchItON](https://github.com/Jkutkut/SwitchItON):** (soon) A domotic project to switch on and off all electric devices.
 
 **· [Android and BQ Zum Core 2.0 communication](https://github.com/Jkutkut/Android-and-BQ-Zum-Core-2.0-communication):** Using Bluetooth Low Energy technology.
 
