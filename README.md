@@ -8,7 +8,7 @@ Here you will find AppInventor based projects, some of them conected with Arduin
 
 **· [Oldie but goodie keyboard](https://github.com/Jkutkut/Oldie-but-goodie-keyboard):** Nokia-like keyboard emulator.
 
-**· [HTTP GET Request Test](https://github.com/Jkutkut/AppInventor-HTTP-GET-Request-Test):** Tool for debbuging.
+**· [HTTP GET Request Test](https://github.com/Jkutkut/AppInventor-HTTP-GET-Request-Test):** Tool for debugging.
 
 **· [AppInventor Calculator](https://github.com/Jkutkut/AppInventor-Calculator):** Simple calculator.
 
